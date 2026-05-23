@@ -2,8 +2,6 @@
 
 > A web platform designed to encourage Nile University students to practice problem-solving and participate in programming contests.
 
-![Platform Banner](docs/images/banner.png)
-
 ---
 
 ## 📸 Screenshots
@@ -69,7 +67,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Mhossam22/NUCPC.git
+git clone https://github.com/Mhossam2/NUCPC.git
 cd NUCPC
 ```
 
